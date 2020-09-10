@@ -1,0 +1,109 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
+  position: relative;
+}
+
+h1 {
+  color: white
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.game {
+  width: 600px;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: blue;
+  border-radius: 50px;
+}
+
+.gameCenter {
+  width: 420px;
+  height: 420px;
+  background-color: #282c34;
+  background-image: url('./media/gameCenter.svg');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  position: relative;
+}
+
+.heart {
+  width: 150px;
+  height: 150px;
+  background-image: url('./media/heart-triangles.svg');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heart:hover {
+  border: 1px solid white;
+}
+
+#Medal {
+  width: 100px;
+  height: 100px;
+}
+
+.player {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  border-radius: 50px;
+  margin: 25px;
+  position: absolute;
+  top: 500px;
+  left: 0;
+  box-shadow: 1px 3px 3px slategrey;
+}
+
+.gameBtn {
+  padding: 10px 15px;
+  background-color: lightgray;
+  color: black;
+  border: 0;
+  border-radius: 5px;
+  transform: skewX(-15deg)
+}
+
+.gameBtn:hover {
+  background-color: gray;
+  color: white;
+}
+
+.lifeStage {
+  position: absolute;
+  color: white;
+}
+
+.Line_1 {
+  left: 0;
+  transform: rotate(-90deg)
+}
+
+.Line_2 {
+  top: 0
+}
+
+.Line_3 {
+  right: -15px;
+  transform: rotate(90deg)
+}
+
+.Line_4 {
+  bottom: 0;
+}
