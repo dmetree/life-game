@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/life-game/static/css/main.cdefd3b9.chunk.css",
+    "main.js": "/life-game/static/js/main.32689f19.chunk.js",
+    "main.js.map": "/life-game/static/js/main.32689f19.chunk.js.map",
+    "runtime-main.js": "/life-game/static/js/runtime-main.1aa29e34.js",
+    "runtime-main.js.map": "/life-game/static/js/runtime-main.1aa29e34.js.map",
+    "static/js/2.5759e6e6.chunk.js": "/life-game/static/js/2.5759e6e6.chunk.js",
+    "static/js/2.5759e6e6.chunk.js.map": "/life-game/static/js/2.5759e6e6.chunk.js.map",
+    "index.html": "/life-game/index.html",
+    "precache-manifest.4fc11db00668da157d47aef82a28cacf.js": "/life-game/precache-manifest.4fc11db00668da157d47aef82a28cacf.js",
+    "service-worker.js": "/life-game/service-worker.js",
+    "static/css/main.cdefd3b9.chunk.css.map": "/life-game/static/css/main.cdefd3b9.chunk.css.map",
+    "static/js/2.5759e6e6.chunk.js.LICENSE.txt": "/life-game/static/js/2.5759e6e6.chunk.js.LICENSE.txt",
+    "static/js/main.32689f19.chunk.js.LICENSE.txt": "/life-game/static/js/main.32689f19.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/life-game/static/media/heart-triangles.a7bfe48c.svg",
+    "static/media/medal.svg": "/life-game/static/media/medal.9d37f477.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa29e34.js",
+    "static/js/2.5759e6e6.chunk.js",
+    "static/css/main.cdefd3b9.chunk.css",
+    "static/js/main.32689f19.chunk.js"
+  ]
+}
